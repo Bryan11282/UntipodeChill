@@ -1,763 +1,124 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732853254331 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732895341236 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853257393 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895344318 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853272487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895347390 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853275604 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895350475 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853278680 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895353576 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853293771 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895356651 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853296833 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895359713 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853299921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895362779 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853302981 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895365860 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853306054 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895368921 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853309122 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895371984 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853312193 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895375057 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853315255 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895378125 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853318321 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895381187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853321392 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895384249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853336512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895387332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853339575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895390406 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853342636 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895393481 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853345694 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895396558 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853348753 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895399637 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
 character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853363843 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853366919 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853369993 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853373052 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853376136 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853379201 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853382258 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853385324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853388401 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853391464 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853394527 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853397585 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853412676 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853415735 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853418792 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853421853 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853424909 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853427979 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853431040 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853446147 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853449207 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853452262 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853455324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853458379 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853461443 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853464497 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853467564 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853470619 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853473687 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853476759 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853479833 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853482903 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853485963 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853489029 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853504140 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853507205 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853510287 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853513354 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853516415 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853519474 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853522537 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853537640 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853540702 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853543851 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853546906 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853550039 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853553099 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853556178 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853559246 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853562309 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853565370 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853580486 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853583556 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853586616 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853589679 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853592745 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853595815 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853598903 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853614008 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853617079 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853620295 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853623487 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853626546 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853629622 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853644719 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853647793 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853650868 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853654077 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853657142 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853660221 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853663293 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853666497 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853669558 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853672630 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853675698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853678843 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853681919 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853684999 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853700105 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853703170 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853706240 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853709303 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853712377 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853727484 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853730543 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853733612 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853736695 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853739792 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853742852 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853745917 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853748977 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853752035 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853755097 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853758165 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853761243 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853764300 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853779391 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853782454 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1732853785545 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-policy-nasdaq.gl.at.ply.gg:41622 => 127.0.0.1:41622 (minecraft-bedrock)
-character-archived.gl.at.ply.gg:42180 => 127.0.0.1:42180 (minecraft-bedrock)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1732853800645 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732895402703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
