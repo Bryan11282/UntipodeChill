@@ -200,3 +200,31 @@ Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
 [17:58:07] [Server thread/INFO]: [Geyser-Spigot] Done (5.533s)! Run /geyser help for help!
 [17:58:07] [Server thread/INFO]: Done (11.624s)! For help, type "help"
 [17:58:07] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:05:57] [Server thread/INFO]: Stopping the server
+[19:05:57] [Server thread/INFO]: Stopping server
+[19:05:57] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.0-SNAPSHOT
+[19:05:57] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[19:05:57] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[19:05:57] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[19:05:57] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.1.1
+[19:05:57] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[19:05:57] [Server thread/INFO]: [ViaVersion] Empty pipeline, nothing to uninject
+[19:05:57] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[19:05:57] [Server thread/INFO]: [RedProtect] Disabling RedProtect v8.1.2-SNAPSHOT
+[19:05:57] [Server thread/INFO]: [RedProtect] Saving world's regions...[m
+[19:05:57] [Server thread/INFO]: [RedProtect] Saving world_the_end's regions...[m
+[19:05:57] [Server thread/INFO]: [RedProtect] Saving world_nether's regions...[m
+[19:05:57] [Server thread/INFO]: [RedProtect] Unregistering listeners...[m
+[19:05:57] [Server thread/INFO]: [RedProtect] RedProtect v8.1.2-SNAPSHOT turned off...[m
+[19:05:57] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[19:05:57] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[19:05:57] [Server thread/INFO]: Saving players
+[19:05:57] [WebSocketConnectReadThread-78/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[19:05:57] [Server thread/INFO]: Saving worlds
+[19:05:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:05:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:05:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
